@@ -3,3 +3,5 @@ no-export-headers += armada_drm.h
 no-export-headers += etnaviv_drm.h
 no-export-headers += omap_drm.h
 no-export-headers += vgem_drm.h
+no-export-headers += drm_smem.h
+no-export-headers += sharp_drm.h
